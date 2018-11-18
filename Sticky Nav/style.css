@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Kanit');
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body{
+	font-family: 'Kanit', sans-serif;
+}
+
+h1.logo {
+	margin: 20px 10px;
+	letter-spacing: -2px;
+}
+
+.topnav {
+	background-color: #0f6e9e;
+	overflow: auto;
+}
+
+.company {
+	color: #fff;
+	float: left;
+	padding: 10px;
+	letter-spacing: -1px;
+
+}
+
+nav {
+	float: right;
+}
+
+nav ul {
+	list-style: none;
+}
+
+nav ul li{
+	display: inline;
+}
+
+nav ul li a {
+	color: #fff;
+	text-decoration: none;
+	margin: 15px 10px 10px 10px;
+	display: inline-block;
+}
+
+p {
+	margin: 15px 10px;
+}
+
+
